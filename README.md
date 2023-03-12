@@ -1,0 +1,1 @@
+This is a simple "guess the number" game. The program asks the user for input until it is equal to a randomly generated number
